@@ -20,7 +20,7 @@
     "batter": "0.0.42",
     "gulp-livereload": "^3.8.0",
     "handlebars": "^4.7.6",
-    "hapi": "^8.6.1",
+    "hapi": ">=11.1.3"
     "karma": "^0.12.36",
     "nodemon": "^1.3.7",
     "taste": "^0.1.68"
